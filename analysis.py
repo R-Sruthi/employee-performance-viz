@@ -14,7 +14,7 @@ except FileNotFoundError:
 rd_count = df[df['department'] == 'R&D'].shape[0]
 
 # Print the frequency count to the console
-print(f"Frequency count for R&D department: {rd_count}")
+print(f'The frequency count for "R&D" department is {rd_count}')
 
 # Create a histogram showing the distribution of departments
 plt.figure(figsize=(10, 6))

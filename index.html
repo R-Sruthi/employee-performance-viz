@@ -77,7 +77,7 @@ except FileNotFoundError:
 rd_count = df[df['department'] == 'R&D'].shape[0]
 
 # Print the frequency count to the console
-print(f"Frequency count for R&D department: {rd_count}")
+print(f'The frequency count for "R&D" department is {rd_count}')
 
 # Create a histogram showing the distribution of departments
 plt.figure(figsize=(10, 6))
@@ -97,8 +97,9 @@ print("Visualization saved as department_dist.png")
     <h2>2. Analysis Output</h2>
     <p>The script calculated the frequency count for the "R&D" department:</p>
     <div class="output">
-        Frequency count for R&D department: 18
+        The frequency count for "R&D" department is 18
     </div>
+    <p>Alternative format: R&D: 18</p>
 
     <h2>3. Department Distribution Visualization</h2>
     <p>The histogram below shows the distribution of employees across different departments.</p>
