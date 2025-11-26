@@ -1,5 +1,5 @@
 employee_id,department,region,performance_score,years_experience,satisfaction_rating
-EMP001,Operations,Australia,60.02,6,4.7
+EMP001,R&D,Australia,60.02,6,4.7
 EMP002,Marketing,Latin America,74.1,6,3.4
 EMP003,Sales,Africa,72.19,13,3.8
 EMP004,Operations,Australia,66.59,19,4.4
