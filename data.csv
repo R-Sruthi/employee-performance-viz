@@ -1,0 +1,101 @@
+employee_id,department,region,performance_score,years_experience,satisfaction_rating
+EMP001,Operations,Australia,60.02,6,4.7
+EMP002,Marketing,Latin America,74.1,6,3.4
+EMP003,Sales,Africa,72.19,13,3.8
+EMP004,Operations,Australia,66.59,19,4.4
+EMP005,HR,Asia,81.36,22,3.3
+EMP006,Sales,Asia,79.39,8,3.3
+EMP007,Sales,Europe,87.7,2,4.9
+EMP008,Operations,Asia,70.78,21,4.4
+EMP009,R&D,Europe,69.77,1,3.1
+EMP010,HR,Africa,66.73,15,3.8
+EMP011,Operations,Latin America,68.75,1,3.9
+EMP012,HR,Latin America,82.32,5,4.5
+EMP013,HR,Latin America,76.15,16,3.5
+EMP014,Sales,Asia,62.6,19,3.4
+EMP015,Marketing,Africa,70.16,4,3.2
+EMP016,HR,Asia,69.88,3,3.9
+EMP017,IT,Asia,87.85,17,4.4
+EMP018,Sales,Africa,88.49,17,3.1
+EMP019,R&D,Africa,65.92,12,4.8
+EMP020,Marketing,Africa,99.91,14,3.9
+EMP021,IT,Africa,70.67,21,3.5
+EMP022,IT,Latin America,99.06,6,3.2
+EMP023,R&D,North America,76.44,3,3.4
+EMP024,Marketing,North America,61.32,9,4.9
+EMP025,Sales,Africa,73.8,5,4.3
+EMP026,Finance,North America,85.37,24,4.0
+EMP027,Marketing,North America,87.23,17,4.3
+EMP028,R&D,Africa,81.24,14,3.9
+EMP029,IT,North America,77.91,21,4.5
+EMP030,Sales,Asia,82.12,3,3.1
+EMP031,Marketing,Europe,83.71,1,4.1
+EMP032,Finance,Europe,63.23,20,3.3
+EMP033,Finance,Africa,74.79,21,3.2
+EMP034,HR,Latin America,69.69,23,3.7
+EMP035,HR,Africa,92.13,1,3.2
+EMP036,Operations,Latin America,78.81,3,3.2
+EMP037,R&D,Europe,99.34,18,3.6
+EMP038,Marketing,Africa,75.95,10,5.0
+EMP039,Marketing,Australia,92.66,22,3.4
+EMP040,Operations,Asia,91.93,3,3.0
+EMP041,IT,North America,66.03,8,4.5
+EMP042,IT,Latin America,80.33,14,4.6
+EMP043,Operations,Australia,87.83,24,3.7
+EMP044,IT,North America,94.33,18,3.9
+EMP045,HR,North America,73.04,15,4.3
+EMP046,Marketing,Africa,68.81,22,3.1
+EMP047,Operations,North America,88.45,23,4.9
+EMP048,Marketing,Asia,92.38,2,4.8
+EMP049,Finance,Australia,73.95,10,3.5
+EMP050,HR,North America,63.85,2,3.0
+EMP051,Sales,Africa,97.62,17,4.9
+EMP052,HR,Asia,75.9,8,4.0
+EMP053,Operations,Europe,80.71,1,4.1
+EMP054,Sales,Australia,93.51,9,4.4
+EMP055,Finance,North America,87.03,11,4.2
+EMP056,Operations,Africa,89.41,22,4.9
+EMP057,R&D,Europe,68.36,16,4.9
+EMP058,Marketing,Europe,81.66,7,4.7
+EMP059,Finance,Latin America,87.83,10,4.3
+EMP060,Marketing,Asia,69.14,23,4.6
+EMP061,IT,North America,67.0,3,4.4
+EMP062,R&D,Africa,99.29,18,4.1
+EMP063,R&D,Latin America,80.67,24,3.3
+EMP064,Finance,Asia,70.43,13,4.6
+EMP065,R&D,Latin America,99.85,7,4.6
+EMP066,Sales,Australia,98.62,4,4.3
+EMP067,R&D,Asia,82.33,13,4.6
+EMP068,Marketing,Asia,95.31,20,4.3
+EMP069,Marketing,North America,67.55,1,3.4
+EMP070,Operations,Asia,71.15,8,3.5
+EMP071,Marketing,Latin America,88.01,14,3.4
+EMP072,Operations,Asia,93.87,16,3.8
+EMP073,Marketing,North America,94.25,14,3.1
+EMP074,Sales,North America,76.18,12,4.2
+EMP075,Operations,Australia,95.51,19,3.7
+EMP076,HR,Latin America,94.04,23,4.3
+EMP077,IT,Europe,97.43,15,3.8
+EMP078,Finance,Europe,91.41,2,4.4
+EMP079,Marketing,Asia,86.76,2,3.7
+EMP080,R&D,Australia,83.23,23,3.5
+EMP081,Marketing,Africa,74.89,22,4.0
+EMP082,R&D,Asia,97.61,19,4.4
+EMP083,IT,Australia,98.95,22,3.7
+EMP084,IT,Latin America,71.36,22,4.9
+EMP085,IT,Latin America,72.21,17,3.1
+EMP086,R&D,Latin America,79.42,20,3.8
+EMP087,Marketing,Latin America,77.94,10,4.9
+EMP088,IT,Latin America,99.78,6,4.1
+EMP089,Sales,Australia,67.04,15,3.8
+EMP090,Operations,Australia,60.72,22,4.1
+EMP091,R&D,North America,79.76,11,4.2
+EMP092,R&D,Europe,67.15,5,4.5
+EMP093,Marketing,Latin America,74.66,1,3.3
+EMP094,R&D,Africa,89.77,8,3.5
+EMP095,R&D,Australia,88.84,21,4.2
+EMP096,IT,Africa,72.32,12,4.7
+EMP097,Marketing,Africa,81.7,12,4.1
+EMP098,IT,Africa,80.35,5,3.5
+EMP099,Operations,North America,85.45,7,4.4
+EMP100,Operations,Australia,70.02,4,4.5
